@@ -28,14 +28,6 @@ __________________________
 3. Ana menüden **Veri Ekle** yada **Verileri Listele** seçenekleri ile kullanmaya başla.
 4. Bir klasör içerisinde kullanmak veri tabanı bütünlüğü için daha verimli olacaktır.
 
-## Nasıl Çalışır?
-
-Giriş şifren, tüm verilerin şifreleme anahtarı olarak kullanılır. Şifren hiçbir yerde düz metin olarak saklanmaz.
-
-```
-Giriş şifresi ──► anahtar ──► kullanıcı adı / şifre / site adı (şifreli) ──► pass.db
-```
-
 ## Dosya Yapısı
 
 ```
@@ -56,7 +48,9 @@ python -m PyInstaller --onefile --windowed --hidden-import cryptocode --name Pas
 
 ## ⚠️ Önemli Notlar
 
-- **Giriş şifreni unutursan verilere erişemezsin.** Şifre kurtarma yoktur.
+- Giriş şifren, tüm verilerin şifreleme anahtarı olarak kullanılır. Şifren hiçbir yerde düz metin olarak saklanmaz.
+- Giriş şifreni unutursan verilere erişemezsin. Şifre kurtarma yoktur.
+- (```pass.db```) Veri tabanını silmeniz halinde verilere birdaha erişemezsiniz.
 - Bu proje eğitim amaçlıdır.
 
 ## Geliştirme Fikirleri
