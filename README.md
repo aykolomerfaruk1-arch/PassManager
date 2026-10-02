@@ -14,7 +14,7 @@ Python ve Tkinter ile geliştirilmiş, verileri şifreli saklayan basit ve kişi
 ## Kullanılan Teknolojiler
 
 | Teknoloji  | Kullanım   |
-__________________________
+
 | Python 3   | Ana dil    |
 | Tkinter    | Arayüz     |
 | SQLite3    | Veritabanı |
