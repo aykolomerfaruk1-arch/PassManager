@@ -25,7 +25,8 @@ __________________________
 
 1. **Kayıt Ol** ile kullanıcı adı, şifre ve e-posta gir.
 2. **Giriş Yap** ile oturum aç..
-3. Ana menüden **Veri Ekle** yada **Verileri Listele** seçeneklerini seç.
+3. Ana menüden **Veri Ekle** yada **Verileri Listele** seçenekleri ile kullanmaya başla.
+4. Bir klasör içerisinde kullanmak veri tabanı bütünlüğü için daha verimli olacaktır.
 
 ## Nasıl Çalışır?
 
