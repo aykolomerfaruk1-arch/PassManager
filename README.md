@@ -8,7 +8,7 @@ Python ve Tkinter ile geliştirilmiş, verileri şifreli saklayan basit ve kişi
 - **Şifreli giriş bilgileri:** Kullanıcı adı, şifre ve e-posta veritabanında şifreli saklanır.
 - **Şifreli kayıtlar:** Eklenen site, kullanıcı adı ve şifre bilgilerinin tamamı şifrelenir.
 - **Otomatik çözme:** Giriş yapınca kayıtlar ek şifre sormadan listelenir.
-- **Kayıt silme:** ID girerek veya tabloda sağ tıklayarak silinebilir.
+- **Kayıtlar:** Tabloda sağ tıklayarak gerekli işlemler yapılabilir.
 - **Hatalı giriş koruması:** 3 yanlış denemede uygulama kapanır.
 
 ## Kullanılan Teknolojiler
@@ -27,6 +27,7 @@ Python ve Tkinter ile geliştirilmiş, verileri şifreli saklayan basit ve kişi
 2. **Giriş Yap** ile oturum aç..
 3. Ana menüden **Veri Ekle** yada **Verileri Listele** seçenekleri ile kullanmaya başla.
 4. Bir klasör içerisinde kullanmak veri tabanı bütünlüğü için daha verimli olacaktır.
+5. Masaüstünde kullanmak için kısayol oluşturulması tavsiye edeilir.
 
 ## Dosya Yapısı
 
@@ -57,5 +58,7 @@ python -m PyInstaller --onefile --windowed --hidden-import cryptocode --name Pas
 
 - Daha güçlü anahtar türetme (`scrypt` + `Fernet`)
 - Otomatik yedekleme
-- Kayıt düzenleme
+- Tarih bilgisi
 - Boşta kalınca otomatik kilitleme
+- Veri arama fonksiyonu
+- Şifre öneri fonksiyonu
