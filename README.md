@@ -56,9 +56,7 @@ python -m PyInstaller --onefile --windowed --hidden-import cryptocode --name Pas
 
 ## Geliştirme Fikirleri
 
-- Daha güçlü anahtar türetme (`scrypt` + `Fernet`)
 - Otomatik yedekleme
-- Tarih bilgisi
 - Boşta kalınca otomatik kilitleme
 - Veri arama fonksiyonu
 - Şifre öneri fonksiyonu
