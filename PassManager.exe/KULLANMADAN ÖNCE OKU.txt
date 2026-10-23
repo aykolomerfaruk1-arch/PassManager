@@ -1,0 +1,29 @@
+KULLANMADAN ÖNCE OKU
+=============================================================
+
+1) KLASÖR DÜZENİ
+   - Uygulama (.exe) ile "app_icon" klasörü aynı yerde durmalıdır.
+   - Uygulamayı "app_icon" klasöründen ayırırsanız uygulama çalışmaz.
+ 
+2) MASAÜSTÜ KISAYOLU
+   - Uygulamayı klasöründen çıkarmayın.
+   - Masaüstüne çıkarmak için uygulamaya sağ tıklayıp kısayol oluşturun
+     ve kısayolu masaüstüne taşıyın.
+ 
+3) YENİ SÜRÜME GEÇİŞ
+   - Eski uygulamayı silin.
+   - Yeni sürümü eski uygulamanın bulunduğu klasöre koyun.
+   - Veritabanı dosyalarına dokunmazsanız verileriniz korunur ve
+     uygulama sorunsuz çalışır.
+ 
+4) VERİTABANI DOSYALARI
+   - Log.db  : Ana hesap (giriş) bilgileri
+   - pass.db : Kayıtlı şifreleriniz
+   - Bu dosyalar uygulama ile aynı klasörde olduğu sürece verilerinize
+     rahatlıkla ulaşabilirsiniz.
+ 
+5) ÖNEMLİ UYARILAR
+   - Ana şifrenizi unutursanız verileriniz kurtarılamaz.
+   - Log.db ve pass.db dosyalarını düzenli olarak yedekleyin.
+   - Bu dosyaları ve şifrenizi başkalarıyla paylaşmayın.
+
