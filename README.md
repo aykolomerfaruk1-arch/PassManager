@@ -58,5 +58,4 @@ python -m PyInstaller --onefile --windowed --name PassManager --icon=app_icon\se
 
 - Otomatik yedekleme
 - Boşta kalınca otomatik kilitleme
-- Veri arama fonksiyonu
 - Şifre öneri fonksiyonu
