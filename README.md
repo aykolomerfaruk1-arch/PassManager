@@ -42,7 +42,7 @@ PassManager/
 
 ```bash
 python -m pip install pyinstaller
-python -m PyInstaller --onefile --windowed --hidden-import cryptocode --name PassManager main.py
+python -m PyInstaller --onefile --windowed --name PassManager --icon=app_icon\security.ico --add-data "app_icon;app_icon" main.py
 ```
 
 Çıktı `dist/PassManager.exe` klasöründe oluşur.
