@@ -1,6 +1,6 @@
 # 🔐 Pass Manager
 
-Python ve Tkinter ile geliştirilmiş, verileri şifreli saklayan basit ve kişisel bir masaüstü şifre yöneticisi.
+Python ve Tkinter ile geliştirilmiş, verileri şifreli saklayan kişisel bir masaüstü şifre yöneticisi.
 
 **Versiyon:** 1.2.3
 
