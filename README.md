@@ -25,7 +25,6 @@ Python ve Tkinter ile geliştirilmiş, verileri şifreli saklayan kişisel bir m
 | Tkinter / ttk | Arayüz                            |
 | SQLite3       | Veritabanı                        |
 | cryptocode    | Şifreleme                         |
-| customtkinter | Kodda içe aktarılır (gereklidir)  |
 
 ## Kullanım
 
