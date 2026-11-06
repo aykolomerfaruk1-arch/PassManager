@@ -16,7 +16,7 @@ import customtkinter as ctk
 #________________________________________________________________________________________________________________
 # Ara Elemanlar
 
-versiyon = "1.3.0"
+versiyon = "1.2.4"
 backemoji = " \u2190 "  # ⏻
 ekran_boyutu = "350x250+600+300"
 dil = "TR"
