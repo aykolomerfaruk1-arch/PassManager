@@ -63,7 +63,7 @@ python -m PyInstaller --onefile --windowed --name PassManager --icon=app_icon\se
 - Kayıt tarihleri şifrelenmeden saklanır.
 - Şifre ekleme, düzenleme ve ayrıntılar ekranlarında şifre alanı gizlenmeden (düz metin) gösterilir.
 - (```pass.db```) Veri tabanını silmeniz halinde verilere bir daha erişemezsiniz. Düzenli yedek almanız önerilir.
-- Bu proje eğitim amaçlıdır.
+- Bu proje eğitim amaçlıdır ve tüm hakları saklıdır kullanılabilir ama çoğaltılamaz.
 
 - Şifre öneri fonksiyonu
 - Açık/koyu tema desteğinin tamamlanması (şu an yalnızca buton ikonu değişir)
